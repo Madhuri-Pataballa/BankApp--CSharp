@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\VS 2017 C#-MadhuProjects\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\Administrator\Documents\VS 2017 C#-MadhuProjects\BankApp\BankApp\bin\Debug\BankApp.exe
+C:\Users\Administrator\Documents\VS 2017 C#-MadhuProjects\BankApp\BankApp\bin\Debug\BankApp.pdb
+C:\Users\Administrator\Documents\VS 2017 C#-MadhuProjects\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\VS 2017 C#-MadhuProjects\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\Administrator\Documents\VS 2017 C#-MadhuProjects\BankApp\BankApp\obj\Debug\BankApp.pdb
