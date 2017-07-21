@@ -12,7 +12,7 @@ namespace BankApp
         {
             var myAccount = new Account
             {
-                EmailAddress = "test@test.com",
+                EmailAddress = "test10@test.com",
                 AccountType = TypeOfAccounts.Checkings
             };
 
