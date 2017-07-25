@@ -18,7 +18,7 @@ namespace BankApp
     /// <summary>
     /// This class describes a Bank Account
     /// </summary>
-    class Account
+    public class Account
     {
 
         #region static
@@ -41,7 +41,9 @@ namespace BankApp
         #endregion
 
         #region Constructors
+
         //default constructor
+
         public Account()
         {
             //lastAccountNumber = lastAccountNumber + 1;
